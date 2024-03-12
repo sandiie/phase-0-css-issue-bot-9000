@@ -1,23 +1,19 @@
-body {
-  background pink;
+body
+ {
+  background-color: pink;
 }
 
 h1 {
   color: blue;
-  fontsize: 3em; 
+  font-size:12px;
 }
 
 h2 {
   color: green;
-  font-weight: normal
-  font-style: italic;
+  font-weight:normal;
+  font-style:italic;
 }
 
 .completed {
-  font-family: 12px;
-}
-
-#tasks .completed {
-  backgound: #ccc;
-  text-decoration: underline;
+  font-family: 'Courier New', Courier, monospace;
 }
